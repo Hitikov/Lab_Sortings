@@ -1,0 +1,14 @@
+﻿  ConsoleApplication1.cpp
+C:\Cstm\.PSTU_works\.Inf\Labs\Lab_sortings\ConsoleApplication1\ConsoleApplication1\QuickSort.h(23,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Cstm\.PSTU_works\.Inf\Labs\Lab_sortings\ConsoleApplication1\ConsoleApplication1\MergeSort.h(41,31): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Cstm\.PSTU_works\.Inf\Labs\Lab_sortings\ConsoleApplication1\ConsoleApplication1\ShellSort.h(11,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Cstm\.PSTU_works\.Inf\Labs\Lab_sortings\ConsoleApplication1\ConsoleApplication1\HoarSort.h(34,33): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+  ConsoleApplication1.vcxproj -> C:\Cstm\.PSTU_works\.Inf\Labs\Lab_sortings\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
